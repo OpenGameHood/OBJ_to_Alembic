@@ -1,0 +1,4 @@
+Cmake_output/*
+test_sample/*
+*.o
+*make

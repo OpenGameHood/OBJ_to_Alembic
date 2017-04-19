@@ -1,0 +1,7 @@
+#this is the root Cmake.
+#should compile evertyhing in to one executable
+
+cmake_minimum_required (VERSION 2.8.11)
+Project (3Dconvert)
+
+add_subdirectory(Tool)
